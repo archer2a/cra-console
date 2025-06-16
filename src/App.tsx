@@ -29,7 +29,6 @@ function App() {
                 <p> 88 </p>
                 <p> 99 </p>
                 <p> 100 </p>
-                <p> 111 </p>
             </header>
         </div>
     );
