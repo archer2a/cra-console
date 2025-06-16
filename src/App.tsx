@@ -28,9 +28,7 @@ function App() {
                 <p> 77 </p>
                 <p> 88 </p>
                 <p> 99 </p>
-                <p> 100 </p>
-
-
+                <p> 101 </p>
             </header>
         </div>
     );
